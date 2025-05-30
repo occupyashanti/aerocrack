@@ -18,6 +18,15 @@
       "contributions": [
         "security"
       ]
+    },
+    {
+      "login": "lenardjombo",
+      "name": "Jombo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158037209?v=4",
+      "profile": "https://github.com/lenardjombo",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
