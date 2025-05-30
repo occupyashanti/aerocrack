@@ -3,13 +3,9 @@ An enhanced wireless security toolkit that builds upon Aircrack-ng with modern f
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-> Next-generation Wi-Fi auditing toolkit with AI-driven prediction, enhanced SIMD compression, and security research utilities.
-
-![Contributors](https://img.shields.io/github/contributors/occupyashanti/aerocrack?style=flat-square)
-![License](https://img.shields.io/github/license/occupyashanti/aerocrack?style=flat-square)
-![Issues](https://img.shields.io/github/issues/occupyashanti/aerocrack?style=flat-square)
-
+![License](https://img.shields.io/github/license-MIT/occupyashanti/aerocrack?style=flat-square)
+![Issues](https://img.shields.io/github/issues-3/occupyashanti/aerocrack?style=flat-square)
+> Next-generation Wi-Fi auditing toolkit with AI-driven prediction, enhanced SIMD compression, and security research utilitie
 ---
 
 ## 🔍 Overview
