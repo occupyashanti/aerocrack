@@ -31,7 +31,7 @@ npx all-contributors generate
 
 | Contributor                                                                                                                                                | GitHub          | Contributions |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------- |
-| [<img src="https://github.com/lenardjombo.png" width="75px;" alt="Contributor 1"/><br /><sub><b>Contributor 1</b></sub>](https://github.com/lenardjombo) | `@contributor1` | Code          |
+| [<img src="https://github.com/lenardjombo.png" width="75px;" alt="Contributor 1"/><br /><sub><b>Contributor 1</b></sub>](https://github.com/lenardjombo) | `@lenardjombo` | Code          |
 
 > ✨ *Want to see your face here? See [How to Contribute](#how-to-contribute)!*
 
@@ -41,8 +41,8 @@ npx all-contributors generate
 
 | GitHub                                           | Contribution               |
 | ------------------------------------------------ | -------------------------- |
-| [@researcher1](https://github.com/Vickymain)   | Vulnerability analysis     |
-| [@cryptoexpert](https://github.com/Vickymain) | Cryptographic improvements |
+| [@Vickymain](https://github.com/Vickymain)   | Vulnerability analysis     |
+| [@Vickymain](https://github.com/Vickymain) | Cryptographic improvements |
 
 ---
 
