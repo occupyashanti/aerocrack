@@ -12,7 +12,7 @@ We gratefully acknowledge the developers and security researchers who have contr
 
 ## 🧠 Core Team
 
-| [<img src="https://github.com/occupyashanti.png" width="100px;" alt="Your Name"/><br /><sub><b>Your Name</b></sub>](https://github.com/yourusername) | [<img src="https://github.com/avatar2.png" width="100px;" alt="Core Developer 2"/><br /><sub><b>Core Developer 2</b></sub>](https://github.com/developer2) |
+| [<img src="https://github.com/occupyashanti.png" width="100px;" alt="occupyashanti"/><br /><sub><b>Your Name</b></sub>](https://github.com/occupyashanti) | [<img src="https://github.com/A2anti.png" width="100px;" alt="A2anti"/><br /><sub><b>A2anti</b></sub>](https://github.com/A2anti) |
 | :---: | :---: |
 | Project Founder | Lead Developer |
 
