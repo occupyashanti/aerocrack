@@ -4,29 +4,34 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
-    "contributors.md"
+    "contributors.md",
+    "README.md"
   ],
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
+  "skipCi": true,
   "contributors": [
     {
       "login": "Vickymain",
       "name": "Maina Wanjohi",
       "avatar_url": "https://avatars.githubusercontent.com/u/162909713?v=4",
       "profile": "https://github.com/Vickymain",
-      "contributions": [
-        "security"
-      ]
+      "contributions": ["security"]
     },
     {
       "login": "lenardjombo",
       "name": "Jombo",
       "avatar_url": "https://avatars.githubusercontent.com/u/158037209?v=4",
       "profile": "https://github.com/lenardjombo",
-      "contributions": [
-        "code"
-      ]
+      "contributions": ["code"]
+    },
+    {
+      "login": "occupyashanti",
+      "name": "Vyron Mino",
+      "avatar_url": "https://github.com/occupyashanti.png",
+      "profile": "https://github.com/occupyashanti",
+      "contributions": ["code", "doc", "infra", "tool", "security"]
     }
   ],
   "contributorsPerLine": 7,

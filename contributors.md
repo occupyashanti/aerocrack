@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ---
 
@@ -18,15 +18,33 @@ We gratefully acknowledge the developers and security researchers who have contr
 
 ## Contributors
 
-### Code Contributors
-| [<img src="https://github.com/contributor1.png" width="75px;" alt="Contributor 1"/><br /><sub><b>Contributor 1</b></sub>](https://github.com/contributor1) | [<img src="https://github.com/contributor2.png" width="75px;" alt="Contributor 2"/><br /><sub><b>Contributor 2</b></sub>](https://github.com/contributor2) | [<img src="https://github.com/contributor3.png" width="75px;" alt="Contributor 3"/><br /><sub><b>Contributor 3</b></sub>](https://github.com/contributor3) |
-| :---: | :---: | :---: |
+### 💻 Code Contributors
 
-### Security Researchers
-| Name | Contribution |
-|------|-------------|
-| [@researcher1](https://github.com/researcher1) | Vulnerability analysis |
-| [@cryptoexpert](https://github.com/cryptoexpert) | Cryptographic improvements |
+*This list is updated automatically using [all-contributors](https://github.com/all-contributors/all-contributors)!*
+
+Run this to update:
+
+```bash
+npx all-contributors add <github-username> code
+npx all-contributors generate
+```
+
+| Contributor                                                                                                                                                | GitHub          | Contributions |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------- |
+| [<img src="https://github.com/lenardjombo.png" width="75px;" alt="Contributor 1"/><br /><sub><b>Contributor 1</b></sub>](https://github.com/lenardjombo) | `@contributor1` | Code          |
+
+> ✨ *Want to see your face here? See [How to Contribute](#how-to-contribute)!*
+
+---
+
+### 🔐 Security Researchers
+
+| GitHub                                           | Contribution               |
+| ------------------------------------------------ | -------------------------- |
+| [@researcher1](https://github.com/Vickymain)   | Vulnerability analysis     |
+| [@cryptoexpert](https://github.com/Vickymain) | Cryptographic improvements |
+
+---
 
 ## How to Contribute
 
@@ -123,6 +141,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Vickymain"><img src="https://avatars.githubusercontent.com/u/162909713?v=4?s=100" width="100px;" alt="Maina Wanjohi"/><br /><sub><b>Maina Wanjohi</b></sub></a><br /><a href="#security-Vickymain" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lenardjombo"><img src="https://avatars.githubusercontent.com/u/158037209?v=4?s=100" width="100px;" alt="Jombo"/><br /><sub><b>Jombo</b></sub></a><br /><a href="https://github.com/occupyashanti/aerocrack/commits?author=lenardjombo" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
