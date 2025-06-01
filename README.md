@@ -9,7 +9,7 @@ An enhanced wireless security toolkit that builds upon Aircrack-ng with modern f
 > Next-generation Wi-Fi auditing toolkit with AI-driven prediction, enhanced SIMD compression, and security research utilitie
 ---
 
-## 🔍 Overview
+##  Overview
 
 **aerocrack** is a fork and evolution of legacy wireless auditing tools, re-engineered to support modern chipsets, AI prediction models, hardware-accelerated compression (via SIMD), and advanced password cracking workflows.
 
@@ -17,7 +17,7 @@ This toolkit is intended for **security professionals**, **penetration testers**
 
 ---
 
-## ✨ Features
+## Features
 
 - Monitor, inject, and capture packets on modern Wi-Fi networks
 -  AI-based WPA key prediction engine
@@ -66,7 +66,7 @@ See `docs/USAGE.md` for full CLI documentation.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 .
@@ -80,7 +80,7 @@ See `docs/USAGE.md` for full CLI documentation.
 
 ---
 
-## 👥 Contributors
+##  Contributors
 
 We use [all-contributors](https://github.com/all-contributors/all-contributors) to recognize our contributors.
 Thanks goes to:
@@ -113,7 +113,7 @@ git push origin feature/my-feature
 * Improve `README.md`, `docs/USAGE.md`
 * Translate docs into other languages
 
-### 🧪 Testing & Security
+### Testing & Security
 
 * Report issues via [GitHub Issues](https://github.com/occupyashanti/aerocrack/issues)
 * Contact us at `security@aerocrack.org` for sensitive disclosures
@@ -127,7 +127,7 @@ Use responsibly and ethically.
 
 ---
 
-## 💖 Acknowledgements
+## Acknowledgements
 
 * Original inspiration from [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
 * SIMD compression based on open research in entropy coding
